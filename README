@@ -7,3 +7,7 @@
 
 - `git config --global alias.lg "log --graph --pretty=tformat:'%Cred%h%Creset -%C(cyan)%d %Creset%s %Cgreen(%an %cr)%Creset' --abbrev-commit"`
 - `git config --global alias.lga "log --graph --pretty=tformat:'%Cred%h%Creset -%C(cyan)%d %Creset%s %Cgreen(%an %cr)%Creset' --abbrev-commit --all"`
+- `git config --global alias.co checkout`
+- `git config --global alias.ci commit`
+- `git config --global alias.st status`
+- `git config --global alias.br branch`
