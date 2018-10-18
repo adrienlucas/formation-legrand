@@ -1,7 +1,8 @@
-- Book git en français : https://git-scm.com/book/fr/v2
+Book git en français : https://git-scm.com/book/fr/v2
 - Pratique : https://learngitbranching.js.org/
 
-Alias :
+Aliasse :
 
 - `git config --global alias.lg "log --graph --pretty=tformat:'%Cred%h%Creset -%C(cyan)%d %Creset%s %Cgreen(%an %cr)%Creset' --abbrev-commit"`
 - `git config --global alias.lga "log --graph --pretty=tformat:'%Cred%h%Creset -%C(cyan)%d %Creset%s %Cgreen(%an %cr)%Creset' --abbrev-commit --all"`
+modif embedfun dans readme
